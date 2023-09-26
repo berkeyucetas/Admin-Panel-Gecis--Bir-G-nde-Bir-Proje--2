@@ -1,0 +1,12 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\bin\Debug\Admin Panel Geçiş.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\bin\Debug\Admin Panel Geçiş.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\bin\Debug\Admin Panel Geçiş.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin Panel Geçiş.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin Panel Geçiş.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin_Panel_Geçiş.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin_Panel_Geçiş.Form2.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin_Panel_Geçiş.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin Panel Geçiş.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin Panel Geçiş.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin Panel Geçiş.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Admin Panel Geçiş\Admin Panel Geçiş\obj\Debug\Admin Panel Geçiş.pdb
